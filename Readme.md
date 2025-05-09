@@ -50,10 +50,6 @@ My programming languages include Python, Go, C, C#, C++, CSS, HTML. Check out my
 <a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> </a>
 <a href="https://github.com/KSKOP69" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/> </a>
 <a href="https://go.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="GO" width="60" height="60"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="60" height="60"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/> </a>
-</p>
-
 
 <h3 align="left">Databases</h3>
 <p align="left"> 
