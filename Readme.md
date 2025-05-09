@@ -22,8 +22,8 @@ Gender: Male.
 Location: Jakarta, Indonesia.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
-Languages: CPlusPlus, CSharp, CSS, HTML, JavaScript, Python, Go.
-Learning: Computer Science.
+Languages: HTML, Python, Go.
+Learning: Business
 Telegram: @ampud.
 ```
 <br>
@@ -33,8 +33,8 @@ Telegram: @ampud.
 </div>
 <div align = "center">
 <p align = "justify"><b>
-I am a self-taught developer from Indonesia who loves working with Python, Go, CSS, JavaScript and HTML. A year ago, I learned Python, HTML and CSS, along with some reverse engineering to develop apps and Telegram bots. Nowadays, I focus on Computer Science, striving to do my best in every specialization area.
-My programming languages include Python, Go, C, C#, C++, CSS, HTML. Check out my repositories and Share your feedback ~ I’ll do my best to improve every day!
+I am a self-taught developer from Indonesia who loves working with Python, Go, and HTML. A year ago, I learned Python, HTML and CSS, along with some reverse engineering to develop apps and Telegram bots. Nowadays, I focus on Computer Science, striving to do my best in every specialization area.
+My programming languages include Python, Go. Check out my repositories and Share your feedback ~ I’ll do my best to improve every day!
 </b>
 <br>
 </p>
@@ -43,10 +43,6 @@ My programming languages include Python, Go, C, C#, C++, CSS, HTML. Check out my
 <h3 align="left">Languages</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a> 
-<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/> </a> 
-<a href="https://isocpp.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/> </a>
-<a href="https://www.css3.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/> </a> 
 <a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> </a>
 <a href="https://go.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="GO" width="60" height="60"/> </a>
 
