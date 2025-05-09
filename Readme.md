@@ -24,7 +24,7 @@ Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
 Languages: CPlusPlus, CSharp, CSS, HTML, JavaScript, Python, Go.
 Learning: Computer Science.
-Telegram: @Lampurge.
+Telegram: @ampud.
 ```
 <br>
      
@@ -34,7 +34,7 @@ Telegram: @Lampurge.
 <div align = "center">
 <p align = "justify"><b>
 I am a self-taught developer from Indonesia who loves working with Python, Go, CSS, JavaScript and HTML. A year ago, I learned Python, HTML and CSS, along with some reverse engineering to develop apps and Telegram bots. Nowadays, I focus on Computer Science, striving to do my best in every specialization area.
-My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CSS, HTML, Shell Script, and PowerShell Script. Check out my repositories and Share your feedback ~ I’ll do my best to improve every day!
+My programming languages include Python, Go, C, C#, C++, CSS, HTML. Check out my repositories and Share your feedback ~ I’ll do my best to improve every day!
 </b>
 <br>
 </p>
